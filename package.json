@@ -4,7 +4,7 @@
   "description": "Testing examples using the Jest library",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/GrafSoul/pro-jest/issues"
   },
-  "homepage": "https://github.com/GrafSoul/pro-jest#readme"
+  "homepage": "https://github.com/GrafSoul/pro-jest#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
 }
