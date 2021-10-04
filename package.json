@@ -1,0 +1,25 @@
+{
+  "name": "pro-jest",
+  "version": "1.0.0",
+  "description": "Testing examples using the Jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrafSoul/pro-jest.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "testing"
+  ],
+  "author": "Dmitriy Zatulovskiy <grafsoul@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrafSoul/pro-jest/issues"
+  },
+  "homepage": "https://github.com/GrafSoul/pro-jest#readme"
+}
